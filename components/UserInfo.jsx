@@ -10,7 +10,7 @@ const UserInfo = () => {
             <div>
                 Email: <span className='font-bold'>prakashexample@gmail.com</span>
             </div>
-            <button className='bg-blue-400 text-black font-bold px-6 py-2 mt-3 rounded-lg'>Log Out</button>
+            <button className='bg-blue-400 text-black font-bold px-6 py-2 mt-3 rounded-lg cursor-pointer'>Log Out</button>
         </div>
     </div>
   )
